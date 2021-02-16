@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>If_else_task_3__calc_two_numbers__Var._1_switch</RootNamespace>
+  </PropertyGroup>
+
+</Project>

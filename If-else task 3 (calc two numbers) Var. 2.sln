@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If-else task 3 (calc two numbers) Var. 2", "If-else task 3 (calc two numbers) Var. 2\If-else task 3 (calc two numbers) Var. 2.csproj", "{5F824585-B1C3-4305-A74E-5584BFD5711A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F824585-B1C3-4305-A74E-5584BFD5711A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F824585-B1C3-4305-A74E-5584BFD5711A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F824585-B1C3-4305-A74E-5584BFD5711A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F824585-B1C3-4305-A74E-5584BFD5711A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0E383F-3647-4D52-BAF4-08A4BC3C2116}
+	EndGlobalSection
+EndGlobal
