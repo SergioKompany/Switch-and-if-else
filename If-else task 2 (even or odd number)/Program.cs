@@ -11,11 +11,11 @@ namespace If_else_task_2__even_or_odd_number_
             int result = (number % 2);
             if (result == 1)
             {
-                Console.WriteLine("This mumber is odd");
+                Console.WriteLine("This number is odd");
             }
             else
             {
-                Console.WriteLine("This mumber is even");
+                Console.WriteLine("This number is even");
             }
             Console.ReadLine();
         }
