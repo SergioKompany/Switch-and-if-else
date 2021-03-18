@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "If-else task 3 (calc two numbers) Var. 2/1.0.0": {
+        "runtime": {
+          "If-else task 3 (calc two numbers) Var. 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If-else task 3 (calc two numbers) Var. 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
